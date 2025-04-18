@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://uwublogs.wordpress.com/](https://uwublogs.wordpress.com/)
 
-- 💬 Ask me about **Reactjs, Nodejs, PHP and AWS**
+- 💬 Ask me about **Reactjs, Nodejs, TypeScript, PHP, and AWS**
 
 - 📫 How to reach me **sandunkdissanayake@gmail.com**
 
